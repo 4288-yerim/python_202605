@@ -8,4 +8,3 @@ menu = {"김밥" : 3000, "라면" : 5000}
 print(menu.keys())
 print(menu.values())
 print(menu.items())
-
