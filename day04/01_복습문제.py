@@ -13,7 +13,7 @@ def list_tool(numbers, mode="sort") :
         print(sorted(numbers, reverse=True))
     elif mode == "sum" :
         print(sum(numbers))
-    else : 
+    else :  
         print(sorted(numbers))
     
 list_tool([3, 1, 7, 2, 9])
